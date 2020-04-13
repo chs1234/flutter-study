@@ -1,6 +1,7 @@
 # flutter_first_project
 
-A new Flutter project.
+Flutter Basic Study 자료입니다.
+==============================
 
 ## Getting Started
 
