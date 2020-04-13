@@ -1,6 +1,6 @@
 # Flutter Basic study
 
-## 참고자료 및 
+## 참고자료 및 출처
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Youtube, 코딩셰프](https://www.youtube.com/channel/UC_2ge45JCuJH1z6VYt4iCgQ)
