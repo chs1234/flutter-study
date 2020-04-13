@@ -1,7 +1,4 @@
-# flutter_first_project
-
-Flutter Basic Study 자료입니다.
-==============================
+# Flutter Basic study
 
 ## Getting Started
 
